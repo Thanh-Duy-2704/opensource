@@ -40,3 +40,14 @@ C:\Users\TRAN THANH DUY\Documents\Zalo Received Files\DoAnTH\DoAnTH\obj\Debug\Do
 C:\Users\TRAN THANH DUY\Documents\Zalo Received Files\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe.config
 C:\Users\TRAN THANH DUY\Documents\Zalo Received Files\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe
 C:\Users\TRAN THANH DUY\Documents\Zalo Received Files\DoAnTH\DoAnTH\bin\Debug\DoAnTH.pdb
+D:\THMNM\opensource\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe.config
+D:\THMNM\opensource\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe
+D:\THMNM\opensource\DoAnTH\DoAnTH\bin\Debug\DoAnTH.pdb
+D:\THMNM\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.AssemblyReference.cache
+D:\THMNM\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Form1.resources
+D:\THMNM\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.FormBenhNhan.resources
+D:\THMNM\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Properties.Resources.resources
+D:\THMNM\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.GenerateResource.cache
+D:\THMNM\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.CoreCompileInputs.cache
+D:\THMNM\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.exe
+D:\THMNM\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.pdb
