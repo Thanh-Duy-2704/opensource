@@ -29,7 +29,8 @@ namespace DoAnTH
 
         private void loaiThuocToolStripMenuItem_Click(object sender, EventArgs e)
         {
-           
+            FormLoaiThuoc frm = new FormLoaiThuoc();
+            frm.Show();
         }
 
         private void thuocToolStripMenuItem_Click(object sender, EventArgs e)

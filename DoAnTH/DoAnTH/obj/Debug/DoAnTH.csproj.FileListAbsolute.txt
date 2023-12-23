@@ -40,3 +40,14 @@ C:\Users\TRAN THANH DUY\Documents\Zalo Received Files\DoAnTH\DoAnTH\obj\Debug\Do
 C:\Users\TRAN THANH DUY\Documents\Zalo Received Files\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe.config
 C:\Users\TRAN THANH DUY\Documents\Zalo Received Files\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe
 C:\Users\TRAN THANH DUY\Documents\Zalo Received Files\DoAnTH\DoAnTH\bin\Debug\DoAnTH.pdb
+D:\opensource\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe.config
+D:\opensource\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe
+D:\opensource\DoAnTH\DoAnTH\bin\Debug\DoAnTH.pdb
+D:\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csprojAssemblyReference.cache
+D:\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Form1.resources
+D:\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Properties.Resources.resources
+D:\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.GenerateResource.cache
+D:\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.CoreCompileInputs.cache
+D:\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.exe
+D:\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.pdb
+D:\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.FormLoaiThuoc.resources
