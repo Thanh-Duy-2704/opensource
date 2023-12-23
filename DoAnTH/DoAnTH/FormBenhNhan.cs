@@ -26,6 +26,7 @@ namespace DoAnTH
             erp.SetError(txtMaBenhNhan, "");
             erp.SetError(txtHoTen, "");
             erp.SetError(txtDiaChi, "");
+
             erp.SetError(txtSoDienThoai, "");
 
             bool problem = false;
@@ -157,6 +158,11 @@ namespace DoAnTH
             {
                 HienThi();
             }
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -308,9 +308,10 @@ namespace DoAnTH
             this.label1.ForeColor = System.Drawing.Color.Black;
             this.label1.Location = new System.Drawing.Point(427, -18);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(376, 46);
+            this.label1.Size = new System.Drawing.Size(382, 46);
             this.label1.TabIndex = 42;
-            this.label1.Text = "Quản lý bệnh nhân";
+            this.label1.Text = "Quản lý bệnh Nhan";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // FormBenhNhan
             // 
