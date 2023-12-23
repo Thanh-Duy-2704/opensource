@@ -51,3 +51,4 @@ D:\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.CoreCompileInputs.cache
 D:\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.exe
 D:\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.pdb
 D:\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.FormLoaiThuoc.resources
+D:\opensource\DoAnTH\DoAnTH\obj\Debug\DoAnTH.FormThuoc.resources
