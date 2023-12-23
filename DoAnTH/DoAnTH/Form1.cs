@@ -19,12 +19,15 @@ namespace DoAnTH
 
         private void bacSiToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+
+            FormBacSi frm = new FormBacSi();
+            frm.Show();
         }
 
         private void benhNhanToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+            FormBenhNhan frm = new FormBenhNhan();
+            frm.Show();
         }
 
         private void loaiThuocToolStripMenuItem_Click(object sender, EventArgs e)
@@ -35,7 +38,8 @@ namespace DoAnTH
 
         private void thuocToolStripMenuItem_Click(object sender, EventArgs e)
         {
-           
+            FormThuoc frm = new FormThuoc();
+            frm.Show();
         }
 
         private void phieuKhamToolStripMenuItem_Click(object sender, EventArgs e)
