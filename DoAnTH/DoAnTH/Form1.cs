@@ -19,7 +19,9 @@ namespace DoAnTH
 
         private void bacSiToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+
+            FormBacSi frm = new FormBacSi();
+            frm.Show();
         }
 
         private void benhNhanToolStripMenuItem_Click(object sender, EventArgs e)
