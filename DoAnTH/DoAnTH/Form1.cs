@@ -26,7 +26,8 @@ namespace DoAnTH
 
         private void benhNhanToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+            FormBenhNhan frm = new FormBenhNhan();
+            frm.Show();
         }
 
         private void loaiThuocToolStripMenuItem_Click(object sender, EventArgs e)
