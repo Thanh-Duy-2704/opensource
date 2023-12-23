@@ -78,6 +78,12 @@
     <Compile Include="FormBenhNhan.Designer.cs">
       <DependentUpon>FormBenhNhan.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormLoaiThuoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLoaiThuoc.Designer.cs">
+      <DependentUpon>FormLoaiThuoc.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -88,6 +94,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormBenhNhan.resx">
       <DependentUpon>FormBenhNhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLoaiThuoc.resx">
+      <DependentUpon>FormLoaiThuoc.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
